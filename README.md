@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/736x/cb/99/bc/cb99bc9de2a41527de5a7249c8564176.jpg)]
+![MasterHead](https://i.pinimg.com/736x/cb/99/bc/cb99bc9de2a41527de5a7249c8564176.jpg)
 <h1 align="center">Hi 👋, I'm Harsh Shrivastav</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif">
