@@ -13,11 +13,7 @@
 
 - 🌱 I’m currently learning **Next.js, Anime.js, Framer Motion, Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-shinzohans-projects.vercel.app/](https://portfolio-shinzohans-projects.vercel.app/)
-
 - 💬 Ask me about **react, node, express, APIs**
-
-- 📫 How to reach me **harshshrivastavOwO@gmail.com**
 
 - 📄 Know about my experiences [https://blush-wrennie-78.tiiny.site](https://blush-wrennie-78.tiiny.site)
 
