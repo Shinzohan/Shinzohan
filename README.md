@@ -1,4 +1,4 @@
-<h1 align="center">Hi ^_~, I'm Harsh</h1>
+<h1 align="center">Hi ^_~, I'm Shinzo</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
 <div align="center">
     <img src="https://i.pinimg.com/736x/cb/99/bc/cb99bc9de2a41527de5a7249c8564176.jpg" alt="MasterHead" />
