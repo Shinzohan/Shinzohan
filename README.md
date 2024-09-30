@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **react, node, express, APIs**
 
-- 📄 Know about my experiences [https://blush-wrennie-78.tiiny.site](https://blush-wrennie-78.tiiny.site)
-
 - ⚡ Fun fact **I'm a gamer; I play a lot of games, especially MMORPGs**
 
 <h3 align="left">Connect with me:</h3>
